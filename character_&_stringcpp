@@ -1,0 +1,14 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main (){
+    //character and string
+    char myGrade = 'S';
+    cout << "My grade is : "<< myGrade <<endl;
+    char mynumber = '5';
+    char myfrindnumber='4';
+    cout << mynumber << endl<< myfrindnumber;
+    return 0; 
+
+}
