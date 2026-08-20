@@ -7,6 +7,6 @@ int main(){
  int reminder = a % b ;
 
  cout << "Division of "<< a << " and " << b <<  " the quotient is " << div << " and the reminder is "<< reminder << endl;
-
+return 0;
 
 }
