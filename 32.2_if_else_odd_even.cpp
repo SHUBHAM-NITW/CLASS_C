@@ -7,8 +7,10 @@ int main (){
     cin >> num;
     if (num%2==0){
         cout << "the number is even";
-    }else{
+    }else if (num%2!=0){
         cout << "the number is odd"<<endl;
+    }else if (num==0){
+        cout << "the number is zero";
     }
     return 0;
 }
