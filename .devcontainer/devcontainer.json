@@ -5,7 +5,8 @@
     "vscode": {
       "extensions": [
         "formulahendry.code-runner",
-        "ms-vscode.cpptools"
+        "ms-vscode.cpptools",
+        "danielpinto8zz6.c-cpp-compile-run"
       ],
       "settings": {
         "code-runner.executorMap": {
