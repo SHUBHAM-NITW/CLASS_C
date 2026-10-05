@@ -8,10 +8,10 @@ cout<<"Enter the year : ";
 cin>>year;
 
 if(year%4==0){
-    cout<<"You have entered a leap year";
+    cout<<"You have entered a leap year"<<endl;
 }
 else{
-    cout<<"Not a leap year";
+    cout<<"Not a leap year"<<endl;
 }
 return 0;
 }
